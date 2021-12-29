@@ -1,0 +1,18 @@
+.container{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  
+}
+.base{
+    border: 1px solid black;
+    width: 700px;
+    padding: 10px;
+}
+.title{
+    background-color: #ccc;
+    text-align: center;
+}
+.title2{
+    background-color:#ccc;
+}
